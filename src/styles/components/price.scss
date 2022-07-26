@@ -1,0 +1,16 @@
+
+.price-bloc{
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  font-weight: bold;
+  font-size: 56px;
+  h1{
+    font-family: raleway;
+    display: flex;
+    text-align: center;
+    margin: auto;
+    color: whitesmoke;
+    filter: invert(1);
+  }
+}
